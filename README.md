@@ -33,3 +33,11 @@ This README file will guide you through the features, installation, and usage of
 
 -Integrated calculator for quick and easy price calculations.
 -Useful for on-the-spot calculations and adjustments.
+
+**NOTE**
+
+To run this, you have to:
+-clone it, it has username and password to login (username: heang, password: 1212)
+-create MySQL databases(name: sunshine_cafe) and table(name: customer_list) consists of ID, name, contact, date, product, quantity, per_cost, price, total
+-change mysql connector in Window2 to your own mysql databases
+
